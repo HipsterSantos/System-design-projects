@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/betting-platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/Django-React-Full-Stack-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/Django-React-Full-Stack-App/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/betting-platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/mini-notes/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/mini-notes/frontend" vcs="Git" />
+  </component>
+</project>
