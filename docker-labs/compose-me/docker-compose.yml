@@ -1,0 +1,10 @@
+version: '3'
+services: 
+  node-redis:
+    image: 'redis'
+  node-app:
+    restart: on-failure
+    build: .
+    ports: 
+      - "8494:3003"
+      - "9090:8080"
