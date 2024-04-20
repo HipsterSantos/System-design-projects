@@ -2,11 +2,21 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular/quinto-andar-like" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nodejs/heroku-buildpack-nodejs-main" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python/betting-platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/flask-auth" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python-projects/Django-React-Full-Stack-App" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python-projects/Django-React-Full-Stack-App/backend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python-projects/betting-platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/country-code-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/flask-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/flask-countries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/flask-rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/git-manager" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python-projects/mini-notes/backend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python-projects/mini-notes/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/omdb-api-py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-projects/pyc-command" vcs="Git" />
   </component>
 </project>
