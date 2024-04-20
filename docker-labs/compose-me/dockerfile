@@ -1,0 +1,13 @@
+FROM node 
+
+maintainer '<santoscampos269@gmail.com>'
+
+WORKDIR  '/app'
+
+COPY package.json .
+
+RUN npm install 
+
+COPY . .
+
+CMD ["npm run","start"]
