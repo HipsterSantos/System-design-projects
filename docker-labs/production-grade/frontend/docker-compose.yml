@@ -16,5 +16,16 @@ services:
     volumes:
       - /app/node_modules
       - .:/app
-    commands: ['npm','run','test']
+    command: ['npm','run','test']
+  something-service:
+    build: 
+      context: .
+      dockerfile: dockerfile.venv
+    restart: always
+    ports:
+      - ""
+      - ""
+    volumes:
+      - .:/app
+      - /app/node_modules
 

@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/angular/quinto-andar-like" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docker-labs/multiple-containers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/nodejs/heroku-buildpack-nodejs-main" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python/betting-platform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python/flask-auth" vcs="Git" />

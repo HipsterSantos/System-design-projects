@@ -1,0 +1,18 @@
+FROM node as builder
+
+MAINTAINER '<santoscampos269@gmail.com>'
+
+WORKDIR '/app'
+
+COPY package.json .
+
+RUN npm i
+
+COPY . .
+
+RUN npm run build
+#multistep container
+FROM nginx
+
+COPY --from=builder /app/build /usr/share/html
+#moving the build folder to nginx html-ontent folder
